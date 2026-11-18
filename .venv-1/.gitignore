@@ -1,0 +1,8 @@
+.env
+.streamlit/secrets.toml
+venv/
+__pycache__/
+*.pyc# Python virtual environments
+.venv/
+.venv-1/
+venv/
